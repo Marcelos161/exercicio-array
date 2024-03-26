@@ -1,5 +1,5 @@
 use std::fs::File;
-use std::io::{stdin, BufReader, Read};
+use std::io::{stdin, BufReader};
 use std::path::Path;
 
 fn main() {
